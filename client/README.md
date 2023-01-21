@@ -1,4 +1,4 @@
-# Simple File Upload with Node Js and React
+# Simple CCHAT Appllication with Node Js and React
 I have used the Create React App and the Antd package to quick setup the UI.
 Just run the ```npm start``` to run the React Js app.
 
